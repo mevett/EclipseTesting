@@ -5,6 +5,7 @@ public class Driver {
 		Fun.haveFun();
 		System.out.println("we had some fun");
 		Sadness.sad();
+		System.out.println("But then I was sad");
 
 	}
 
