@@ -7,7 +7,7 @@ public class Driver {
 		Sadness.sad();
 		System.out.println("But then I was sad");
 		System.out.println("but only for a while, while I wait");
-
+		Hungry.hungry(3);
 	}
 
 }
