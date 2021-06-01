@@ -1,6 +1,6 @@
 
 public class Fun {
 	public static void haveFun() {
-		System.out.println("have some fun");
+		System.out.println("have a lot of fun");
 	}
 }
